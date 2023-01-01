@@ -7,12 +7,12 @@ This is a todo list, designed to be used in a terminal.
     python ./app.py [command]
 
 #### Commands:
-[nothing\]: displays the list
-add [task value]  : adds the [task value] to the list
-did [taskid]      : marks the task complete
-undid [taskid]    : marks the task uncomplete
-flush             : clears the entire list
-del [taskid]      : deletes the task mentioned 
+[nothing\]: displays the list<br/>
+add [task value]  : adds the [task value] to the list<br/>
+did [taskid]      : marks the task complete<br/>
+undid [taskid]    : marks the task uncomplete<br/>
+flush             : clears the entire list<br/>
+del [taskid]      : deletes the task mentioned<br/><br/>
  
 **TaskID**: Index of the task selected.(count from zero) [int]
 
